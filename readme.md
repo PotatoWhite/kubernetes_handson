@@ -22,7 +22,7 @@
 
 앞으로 설명되는 것들은 다음과 같습니다.
 
-- Chapter 01. Virtual Box 및 Vagrant를 이용한 VM 및 Kubernetes Cluster로 연결
+- Chapter 01. Kubernetes Cluster 설치
 - Chapter 02. Jenkins의 설치
 - Chapter 03. Springboot 기반 Restful API Sample 배포
 - Chapter 04. API G/W
